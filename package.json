@@ -1,0 +1,22 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "repository": "Repository name",
+  "author": "Authors name",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel  --port 3000",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "parcel": "latest",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.0"
+  }
+}
