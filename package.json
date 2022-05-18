@@ -10,11 +10,9 @@
     "build": "parcel build"
   },
   "dependencies": {
-    "babel-plugin-styled-components": "^2.0.7",
     "parcel": "latest",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "styled-components": "^5.3.5"
+    "react-dom": "^18.1.0"  
   },
   "devDependencies": {
     "@babel/core": "^7.12.0"
